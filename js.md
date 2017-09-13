@@ -1,11 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>JS Bin</title>
-</head>
-<body>
+---
+layout: default
+---
+
+
 <p><a href="https://learn.javascript.ru/js">Основы</a></p>
 <p> <a href="https://developer.mozilla.org/ru/">Справка</a></p>
 <p>Видео которые дадут полную картину для начала, очень рекомендую
@@ -22,8 +19,8 @@
 </p>
 <p>
 <a href="https://www.youtube.com/playlist?list=PLqHlAwsJRxAOpWPtj2T6HhSzX-lKmKV2q">Неплохой набор по последнему стандарту, смотреть после всего остального.</a>
-</p>
-  
-  <p><a href="https://jsbin.com">Ну и сайт-песочница, чтобы все пробовать</p>
-  </body>
-</html>
+</p>  <p><a href="https://jsbin.com">Ну и сайт-песочница, чтобы все пробовать</p>  
+
+_yay_
+
+[back](./)
