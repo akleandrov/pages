@@ -2,11 +2,9 @@
 layout: main
 ---
 
-### 
-
 <p><a href="https://learn.javascript.ru/js">Основы</a></p>
 <p> <a href="https://developer.mozilla.org/ru/">Справка</a></p>
-<p>Видео которые дадут полную картину для начала, очень рекомендую
+Видео которые дадут полную картину для начала, очень рекомендую
 
 *  [](https://youtu.be/IJQVLg4heLA/)
 *  [](https://youtu.be/IJQVLg4heLA/)
@@ -14,7 +12,6 @@ layout: main
 *  [](https://youtu.be/SI-pcE-6f3M/)
 *  [](https://youtu.be/Wgzq6use59A/)
   
-</p>
 <p>
 <a href="https://www.youtube.com/playlist?list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem/">Популярный набор видео </a>
 </p>
