@@ -2,8 +2,9 @@
 layout: main
 ---
 
+### 
 
-<p><a href="https://learn.javascript.ru/js">[Основы</a></p>
+<p><a href="https://learn.javascript.ru/js">Основы</a></p>
 <p> <a href="https://developer.mozilla.org/ru/">Справка</a></p>
 <p>Видео которые дадут полную картину для начала, очень рекомендую
 
