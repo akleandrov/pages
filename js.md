@@ -3,10 +3,10 @@ layout: main
 ---
 
 
-##### [Основы](https://learn.javascript.ru/js)
-##### [Справка](https://developer.mozilla.org/ru/)
+###### [Основы](https://learn.javascript.ru/js)
+###### [Справка](https://developer.mozilla.org/ru/)
 
-##### Видео которые дадут полную картину для начала, очень рекомендую:
+###### Видео которые дадут полную картину для начала, очень рекомендую:
 
 *  [https://youtu.be/IJQVLg4heLA/](https://youtu.be/IJQVLg4heLA/)
 *  [https://youtu.be/IJQVLg4heLA/](https://youtu.be/IJQVLg4heLA/)
