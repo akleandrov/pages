@@ -8,11 +8,11 @@ layout: main
 <p> <a href="https://developer.mozilla.org/ru/">Справка</a></p>
 <p>Видео которые дадут полную картину для начала, очень рекомендую
 
-*  <a href="https://youtu.be/IJQVLg4heLA/">https://youtu.be/IJQVLg4heLA/<a>
-*  <a href="https://youtu.be/IJQVLg4heLA/">https://youtu.be/IJQVLg4heLA/<a>
-*  <a href="https://youtu.be/QsWnRj_EXMg/">https://youtu.be/QsWnRj_EXMg/<a>
-*  <a href="https://youtu.be/SI-pcE-6f3M/">https://youtu.be/SI-pcE-6f3M/<a>
-*  <a href="https://youtu.be/Wgzq6use59A/">https://youtu.be/Wgzq6use59A/<a>
+*  [](https://youtu.be/IJQVLg4heLA/)
+*  [](https://youtu.be/IJQVLg4heLA/)
+*  [](https://youtu.be/QsWnRj_EXMg/)
+*  [](https://youtu.be/SI-pcE-6f3M/)
+*  [](https://youtu.be/Wgzq6use59A/)
   
 </p>
 <p>
